@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.319a6f90.css",
+    "main.js": "/static/js/main.768de064.js",
+    "static/js/787.c9096bca.chunk.js": "/static/js/787.c9096bca.chunk.js",
+    "static/media/rectangle29.png": "/static/media/rectangle29.0b5eff8d1efbd4532497.png",
+    "static/media/coachdashheader.png": "/static/media/coachdashheader.0e1d2190ba6428e18f86.png",
+    "static/media/Business-deal.png": "/static/media/Business-deal.6611689c72634e50c510.png",
+    "static/media/playerimg.png": "/static/media/playerimg.c1e7db7ac043e43e5eb3.png",
+    "static/media/FLW-Regular.5da28fe.ttf": "/static/media/FLW-Regular.5da28fe.b0b66ef7a5a769a150eb.ttf",
+    "static/media/FLW-Bold.8acb0e3.ttf": "/static/media/FLW-Bold.8acb0e3.d429372a5a537faf6c00.ttf",
+    "static/media/coachimg.png": "/static/media/coachimg.487d9596257f52bee0ec.png",
+    "static/media/coach.png": "/static/media/coach.a6bb4ffef167e1767e96.png",
+    "static/media/Group 12.png": "/static/media/Group 12.93b2553e469c2d19be2b.png",
+    "static/media/Business deal-1.png": "/static/media/Business deal-1.7e5372f9dbebb5edbe1b.png",
+    "static/media/soccerkick.png": "/static/media/soccerkick.521ae916140e6ad4053e.png",
+    "static/media/secondBall.png": "/static/media/secondBall.b6c7bac227461ecf1629.png",
+    "static/media/soccerkick2.png": "/static/media/soccerkick2.e085f213bc8a3723f54c.png",
+    "static/media/logo-dark.png": "/static/media/logo-dark.e39b62c879611b7191c8.png",
+    "static/media/sportspadi-logo.png": "/static/media/sportspadi-logo.e39b62c879611b7191c8.png",
+    "index.html": "/index.html",
+    "main.319a6f90.css.map": "/static/css/main.319a6f90.css.map",
+    "main.768de064.js.map": "/static/js/main.768de064.js.map",
+    "787.c9096bca.chunk.js.map": "/static/js/787.c9096bca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.319a6f90.css",
+    "static/js/main.768de064.js"
+  ]
+}
